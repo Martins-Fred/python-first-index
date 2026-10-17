@@ -1,0 +1,1 @@
+This project taught me how to find where an item first appears in a list or string using a for loop, range(), len() and an if statement.
